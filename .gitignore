@@ -46,3 +46,6 @@ WeChat/cmake-build-*/
 WeChat/compile.log
 WeChat/apple_build/
 WeChat/export_headers/
+
+# build
+/build
